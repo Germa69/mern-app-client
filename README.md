@@ -1,13 +1,16 @@
+# MERN-APP-CLIENT
+
 Source code của phần FRONT-END của BLOG (MERN)
 
 Source code phần BACKEND của BLOG (MERN) 
 https://github.com/Germa69/mern-app-server
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
+
+Libraries used in the project
+
+### `redux react-redux redux-saga redux-actions axios moment react-file-base64`
+
 
 In the project directory, you can run:
 
